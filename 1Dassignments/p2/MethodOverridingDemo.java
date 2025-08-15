@@ -22,7 +22,7 @@ public class MethodOverridingDemo {
         Animal myDog = new Dog();
         myAnimal.makeSound();
         myDog.makeSound();
-    }
-}
+            }
+        }
 
 
